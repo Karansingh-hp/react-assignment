@@ -190,18 +190,66 @@
 
 
 
-
-
+Formhandling //
 import React from 'react'
-import Listrendering from './Component/Listrendering'
+import Formhandling from './pages/Formhandling'
 const App = () => {
-  
   return (
     <div>
-<Listrendering/>
-
+      <Formhandling/>
     </div>
   )
 }
 
 export default App
+
+
+
+
+
+// import React from 'react'
+// import Lifecycle from './pages/Lifecycle'
+// const App = () => {
+//   return (
+//     <div>
+//       <Lifecycle/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+
+
+
+
+
+
+//  Listrendering //
+
+// import React from 'react'
+// import Listrendering from './Component/Listrendering'
+// const App = () => {
+  
+//   return (
+//     <div>
+// <Listrendering/>
+
+//     </div>
+//   )
+// }
+
+// export default App
+
+
+
+
+// import React from 'react'
+// import ApiIntegration from './pages/ApiIntegration'
+// const App = () => {
+//   return (
+//     <ApiIntegration/>
+//   )
+// }
+
+// export default App
